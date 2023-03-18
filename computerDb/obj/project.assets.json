@@ -1465,11 +1465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/guidowira/Documents/xtramile_test/computerDB/computerDb/computerDb/computerDb.csproj",
+      "projectUniqueName": "/Users/guidowira/Documents/Selenium-Csharp/computerDb/computerDb.csproj",
       "projectName": "computerDb",
-      "projectPath": "/Users/guidowira/Documents/xtramile_test/computerDB/computerDb/computerDb/computerDb.csproj",
+      "projectPath": "/Users/guidowira/Documents/Selenium-Csharp/computerDb/computerDb.csproj",
       "packagesPath": "/Users/guidowira/.nuget/packages/",
-      "outputPath": "/Users/guidowira/Documents/xtramile_test/computerDB/computerDb/computerDb/obj/",
+      "outputPath": "/Users/guidowira/Documents/Selenium-Csharp/computerDb/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/guidowira/.nuget/NuGet/NuGet.Config"

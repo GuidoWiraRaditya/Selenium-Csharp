@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cNo/JTlYvPplDsJP4yMKsbwSeEbnKwAC+ViMKgEjQjMaGB0xiysZgwl3T2klGSRQaqO5gRb+C7RYw7cz6h6i8Q==",
+  "dgSpecHash": "w8OoHH9BEazVsKRK0lkRVb9WA5ws7CPoSKnVFBnDAfq09pdMtLDZDPdT6PfxRmegW/MLiDzP+r6Ni8FHKshblA==",
   "success": true,
-  "projectFilePath": "/Users/guidowira/Documents/xtramile_test/computerDB/computerDb/computerDb/computerDb.csproj",
+  "projectFilePath": "/Users/guidowira/Documents/Selenium-Csharp/computerDb/computerDb.csproj",
   "expectedPackageFiles": [
     "/Users/guidowira/.nuget/packages/coverlet.collector/3.1.2/coverlet.collector.3.1.2.nupkg.sha512",
     "/Users/guidowira/.nuget/packages/dotnetseleniumextras.waithelpers/3.11.0/dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
