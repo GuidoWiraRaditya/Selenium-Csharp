@@ -1,0 +1,28 @@
+{
+  "version": 2,
+  "dgSpecHash": "cNo/JTlYvPplDsJP4yMKsbwSeEbnKwAC+ViMKgEjQjMaGB0xiysZgwl3T2klGSRQaqO5gRb+C7RYw7cz6h6i8Q==",
+  "success": true,
+  "projectFilePath": "/Users/guidowira/Documents/xtramile_test/computerDB/computerDb/computerDb/computerDb.csproj",
+  "expectedPackageFiles": [
+    "/Users/guidowira/.nuget/packages/coverlet.collector/3.1.2/coverlet.collector.3.1.2.nupkg.sha512",
+    "/Users/guidowira/.nuget/packages/dotnetseleniumextras.waithelpers/3.11.0/dotnetseleniumextras.waithelpers.3.11.0.nupkg.sha512",
+    "/Users/guidowira/.nuget/packages/microsoft.codecoverage/17.5.0/microsoft.codecoverage.17.5.0.nupkg.sha512",
+    "/Users/guidowira/.nuget/packages/microsoft.net.test.sdk/17.5.0/microsoft.net.test.sdk.17.5.0.nupkg.sha512",
+    "/Users/guidowira/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/guidowira/.nuget/packages/microsoft.testplatform.objectmodel/17.5.0/microsoft.testplatform.objectmodel.17.5.0.nupkg.sha512",
+    "/Users/guidowira/.nuget/packages/microsoft.testplatform.testhost/17.5.0/microsoft.testplatform.testhost.17.5.0.nupkg.sha512",
+    "/Users/guidowira/.nuget/packages/mstest.testadapter/3.0.2/mstest.testadapter.3.0.2.nupkg.sha512",
+    "/Users/guidowira/.nuget/packages/mstest.testframework/3.0.2/mstest.testframework.3.0.2.nupkg.sha512",
+    "/Users/guidowira/.nuget/packages/netstandard.library/2.0.0/netstandard.library.2.0.0.nupkg.sha512",
+    "/Users/guidowira/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512",
+    "/Users/guidowira/.nuget/packages/nuget.frameworks/5.11.0/nuget.frameworks.5.11.0.nupkg.sha512",
+    "/Users/guidowira/.nuget/packages/nunit/3.13.3/nunit.3.13.3.nupkg.sha512",
+    "/Users/guidowira/.nuget/packages/nunit.analyzers/3.5.0/nunit.analyzers.3.5.0.nupkg.sha512",
+    "/Users/guidowira/.nuget/packages/nunit3testadapter/4.3.0/nunit3testadapter.4.3.0.nupkg.sha512",
+    "/Users/guidowira/.nuget/packages/selenium.support/4.8.1/selenium.support.4.8.1.nupkg.sha512",
+    "/Users/guidowira/.nuget/packages/selenium.webdriver/4.8.1/selenium.webdriver.4.8.1.nupkg.sha512",
+    "/Users/guidowira/.nuget/packages/selenium.webdriver.chromedriver/111.0.5563.6400/selenium.webdriver.chromedriver.111.0.5563.6400.nupkg.sha512",
+    "/Users/guidowira/.nuget/packages/system.reflection.metadata/1.6.0/system.reflection.metadata.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
